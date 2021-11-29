@@ -1,2 +1,3 @@
-# Restore-YouTube-Dislike
-Restores ability to dislike and see actual dislikes count on YouTube videos
+*in action :*
+
+![ryd-demo](https://i.ibb.co/4jSLCkj/ryd-demo.gif)
